@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+.claude/
+
+node_modules/
+.next/
+frontend/.env.local
+
+.DS_Store
